@@ -1,0 +1,9 @@
+Ordering Suffix for Standard Coil Voltages,,,
+AC Control,,DC Control*,
+Voltage (V),Suffix,Voltage (V),Suffix
+24,GOOO,24,4OOO
+110,AOOO,48,5OOO
+220,KOOO,110,1OOO
+240,BOOO,220,2OOO
+415,DOOO,,
+440,POOO,,

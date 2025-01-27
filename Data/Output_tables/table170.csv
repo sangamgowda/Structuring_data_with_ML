@@ -1,0 +1,30 @@
+Description,Cat. No.,"M.R.P.
+(`)
+P e r U n i t"
+Shunt Release (SR) [8538],,
+Type EA : 24/48V DC,SL92718O4OO,3410
+Type EA : 110V DC,S L92718O1OO,3410
+Type EA : 220V DC,S L92718O2OO,3410
+Type EA1 : 110V AC,SL92718OAOO,3410
+Type EA1 : 240V AC,S L92718OBOO,3410
+Type EA1 : 415V AC,S L92718ODOO,3410
+Under Voltage Release (UVR) [8538],,
+Type MV : 24V DC,S T36877OOOO,4920
+Type MV : 240V AC,SL92720BOOO,4920
+Type MV : 415V AC,S L92720DOOO,4920
+Earth Fault Release ( for DN1) [8538],,
+"Type EF1 (10%, 20% In )",S L91340OOOO,4350
+"Type EF2 (30%, 40%, 50% In)",S L91341OOOO,4350
+Remote Fault Indication [8538],,
+"AN1 Remote Annunciation Module for
+SR18G/SR18G+D/SR18Gi+D : 240V AC",SL94654OOOO,10560
+Microswitches for Indication [8536],,
+Microswitch for Voltmetric Releases (2) each,SL92703OOOO,2700
+"Microswitch for Common Indication of O/L &
+S/C (3) each",SL92704OOOO,2700
+"Microswitch for Separate Indication of O/L &
+S/C (3) each (for DN1 release)",SL92705OOOO,4510
+Service Position Microswitch - Right (2),SL93142OOOO,1830
+Service Position Microswitch - Left (2),SL93143OOOO,1830
+Test or Isolated Position Microswitch - Right (2),SL93144OOOO,1830
+Test or Isolated Position Microswitch - Left (2),SL93145OOOO,1830

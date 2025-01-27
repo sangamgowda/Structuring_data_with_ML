@@ -1,0 +1,21 @@
+Type,"kVAr
+Rating","Voltage
+(V)","M.R.P.
+(`)
+per kVAr"
+"Cylindrical Series:
+LTCCH",1 to 4,440 V,508
+,5 to 15,,467
+,20 to 30,,455
+,5.5 to 16.6,480 V,481
+,22.1 & 27.7,,468
+,6.6 to 16.6,525 V,490
+,20 to 33.1,,478
+"Box Series:
+LTBCH",1 to 4,440 V,565
+,5 to 15,,479
+,20 to 50,,469
+,5.5 to 15,480 V,503
+,20 to 27.7,,493
+,6.6 to 15,525 V,513
+,20 to 33.1,,501

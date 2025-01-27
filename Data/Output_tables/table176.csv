@@ -1,0 +1,15 @@
+Type,"kVAr
+Rating","Voltage
+(V)","M.R.P.
+(`)
+per kVAr"
+"Cylindrical
+1 to 6 kVAr - Series : LTCCF
+7.5 to 33.1 kVAr - Series : LTCCD",1 to 25,440,266
+,1.2 to 27.7,480,280
+,1.3 to 33.1,525,286
+"Box
+1 to 6 kVAr - Series : LTBCF
+7.5 to 33.1 kVAr - Series : LTBCD",1 to 30,440,304
+,11.1 to 27.7,480,318
+,13.2 to 33.1,525,325

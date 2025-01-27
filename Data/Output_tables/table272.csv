@@ -1,0 +1,17 @@
+Description,,Configuration,Module,Voltage,CAT Nos.,"M.R.P.
+(`)
+Per Unit"
+Au,xiliary Contact,1NO+1NC,0.5,"240V AC, 24V DC",AUAXAC240,895
+AUX/TAC*,,1NO+1NC,0.5,"240V AC, 24V DC",AUATAC240,1050
+"Undervoltage
+Release",,-,1,240V AC,AUUVAC240,2120
+,,-,1,24V DC,AUUVDC024,2120
+Overvoltage Release,,-,1,240V AC,AUOVAC240,2620
+Shunt Release,,-,1,240V AC,AUSRAC240,2430
+,,-,1,24V DC,AUSRDC024,2430
+"Padlock-Suitable for
+Lock Hasp
+3.5 - 5 mm dia. max",,"Suitable for 1Pole=1Mod devices: RCCBs,
+RCBOs, Changeover Switches up to 40A",,,AUPD01,480
+,,"Suitable for 1Pole-1.5Mod devices:
+MCBs 80A-125A, Changeover Switch 63A",,,AUPD02,545

@@ -1,0 +1,12 @@
+Parameters,Standard Duty,,Heavy Duty,,Gas Filled,"Super
+Heavy Duty",APP,LTXL Ultra Heavy Duty,
+,Cylindrical,Box,Cylindrical,Box,Cylindrical,Cylindrical,Box,Cylindrical,Box
+"Over current
+withstand capability",1.5 x In,1.5 x In,1.8 x In,1.8 x In,1.8 x In,2.5 x In,2.5 x In,3 x In,3 x In
+Operating losses,0.45 W/kVAr,0.45 W/kVAr,0.5 W/kVAr,0.35 W/kVAr,0.35 W/kVAr,0.45 W/kVAr,0.5 W/kVAr,0.45 W/kVAr,0.35 W/kVAr
+"Peak Inrush current
+withstand capability",200 x In,200 x In,250 x In,300 x In,250 x In,350 x In,300 x In,500 x In,500 x In
+"Number of switching
+operations per year",5000,5000,7500,8000,8000,15000,10000,18000,20000
+Max. Temperature,55OC,55OC,55OC,55OC,55OC,65OC,55OC,65OC,70OC
+Operating life,100000 hrs.,100000 hrs.,130000 hrs.,150000 hrs.,150000 hrs.,200000 hrs.,200000 hrs.,300000 hrs.,300000 hrs.

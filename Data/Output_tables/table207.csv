@@ -1,0 +1,11 @@
+Description,Output contacts,Reset Contacts,Reset Flag,Coil Voltage,Cat. No.,M.R.P. (`) Per Unit
+"Single element
+Auxiliary relay",4 N/O,Hand,Hand,24VDC,A1H40DC024X,5000
+,,,,110VDC,A1H40DC110X,
+,,,,220VDC,A1H40DC220X,
+,,,,230VAC,A1H40AC230X,
+"Single element
+Auxiliary relay",2 N/O + 2 N/C,Auto,Hand,24VDC,A1A22DC024X,
+,,,,110VDC,A1A22DC110X,
+,,,,220VDC,A1A22DC220X,
+,,,,230VAC,A1A22AC230X,

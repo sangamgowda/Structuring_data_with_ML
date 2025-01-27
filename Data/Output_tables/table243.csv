@@ -1,0 +1,26 @@
+Category,,Description,Cat. No.,"M.R.P.
+(`)
+Per Unit"
+CPU,E - Series,"AC 110~220V, 6P DC Input, 4P TR (NPN) output",LTPCM-DN10E1,*
+,,"AC 110~220V, 6P DC Input, 4P Relay output",LTPCM-DR10E1,*
+,,"AC 110~220V, 8P DC Input, 6P TR(NPN) output",LTPCM-DN14E1,*
+,,"AC 110~220V, 8P DC Input, 6P Relay output",LTPCM-DR14E1,*
+,,"AC 110~220V, 12P DC Input, 8P TR(NPN) output",LTPCM-DN20E1,*
+,,"AC 110~220V, 12P DC Input, 8P Relay output",LTPCM-DR20E1,*
+,,"AC 110~220V, 18P DC Input, 12P TR(NPN) output",LTPCM-DN30E1,*
+,,"AC 110~220V, 18P DC Input, 12P Relay output",LTPCM-DR30E1,*
+,S - Series,"AC 110~220V, 12P DC Input, 8P TR(NPN) output",LTPCM-DN20S1,*
+,,"AC 110~220V, 12P DC Input, 8P Relay output",LTPCM-DR20S1,*
+,,"AC 110~220V, 18P DC Input, 12P TR(NPN) output",LTPCM-DN30S1,*
+,,"AC 110~220V, 18P DC Input, 12P Relay output",LTPCM-DR30S1,*
+,,"AC 110~220V, 24P DC Input, 16P TR(NPN) output",LTPCM-DN40S1,*
+,,"AC 110~220V, 24P DC Input, 16P Relay output",LTPCM-DR40S1,*
+,,"AC 110~220V, 36P DC Input, 24P TR(NPN) output",LTPCM-DN60S1,*
+,,"AC 110~220V, 36P DC Input, 24P Relay Output",LTPCM-DR60S1,*
+,U - Series,"AC 110~220V, 16P DC Input, 16P TR(NPN) output",LTPCM-DN32UB,*
+,,"AC 110~220V, 16P DC Input, 16P TR(NPN) output",LTPCM-DN32UA,*
+,,"AC 110~220V, 16P DC Input, 16P TR(NPN) output",LTPCM-DN32UP,*
+,,"DC 24V, 16P DC Input, 16P TR(NPN) output",LTPCM-DN32UB/DC,*
+,,"DC 24V, 16P DC Input, 16P TR(NPN) output",LTPCM-DN32UA/DC,*
+,,"DC 24V, 16P DC Input, 16P TR(NPN) output",LTPCM-DN32UP/DC,*
+,HPL - Series,"DC 24V, 16P DC Input, 16 Point TR (NPN) output",LTPCM-DN32HPL,*

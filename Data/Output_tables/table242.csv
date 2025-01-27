@@ -1,0 +1,24 @@
+Description,Cat. No.,"M.R.P.
+(`)
+Per Unit"
+Modbus Interface,PIM-MB-01,*
+Profibus Interface,PIM-PB-01,*
+DeviceNet Interface,PIM-DN-01,*
+USB Interface,PIM-USB-01,*
+Modbus TCP Module,PIM-MT-01,*
+Ethernet IP Module,PIM-EI-01,*
+Profinet Module,PIM-PN-01,*
+"DeviceNet Card, EMX4",PIC-DN-01,*
+"Ethernet IP Card, EMX4",PIC-EI-01,*
+"Modbus RTU Card, EMX4",PIC-MB-01,*
+"Modbus TCP Card, EMX4",PIC-MT-01,*
+"Profibus Card, EMX4",PIC-PB-01,*
+"Profinet Card, EMX4",PIC-PN-01,*
+"Remote Keypad Card, EMX4",PIC-RC-01,*
+Remote Keypad Card & Keypad EMX4,PIC-RC-02,*
+"Remote Keypad with cable & mounting kit, EMX4",PIC-RK-01,*
+"Smart Control Card Pump Application, EMX4",SCC-PC-01,*
+Ground Fault + Ethernet IP Card EMX4,PIC-EI-02,*
+Ground Fault + Modbus RTU Card EMX4,PIC-MB-02,*
+Ground Fault + Modbus TCP Card EMX4,PIC-MT-02,*
+Ground Fault + Profinet Card EMX4,PIC-PN-02,*

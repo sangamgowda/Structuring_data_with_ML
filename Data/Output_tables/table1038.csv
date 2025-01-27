@@ -1,0 +1,15 @@
+,Frame -->,DIN LINE 1,"POWER
+LINE 1","POWER
+LINE 2"
+,Ratings,"32A, 40A,
+63A","63A, 100A, 2
+125A, 160A 2","00A,
+50A, 320A"
+,"Rated Operational Voltage,
+Ue",690V AC,690V AC,
+,"Rated Insulation Voltage, Ui",690V AC,1000V AC,
+,"Rated Impulse Voltage,
+Uimp",8kV,8kV,12kV
+,Mechanical Life,10000,10000,10000
+,Electrical Life,2000,2500,2000
+,Icw for 1 Sec,1.5kA,8kA,12.5kA

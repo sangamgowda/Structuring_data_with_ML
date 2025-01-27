@@ -1,0 +1,19 @@
+Type,"kVAr
+Rating","Voltage
+(V)","M.R.P.
+(`)
+per kVAr"
+"Cylindrical
+Series : LTCCU",5 to 15,440V,1004
+,20 & 25,,987
+,7.5 to 15,480V,1056
+,20,,1039
+,7.5 to 15,525V,1075
+,20,,1056
+"Box
+Series: LTBCU",5 to 15,440V,1113
+,20 to 50,,1091
+,7.5 to 15,480V,1169
+,20 to 30,,1146
+,7.5 to 15,525V,1191
+,20 to 33.1,,1168

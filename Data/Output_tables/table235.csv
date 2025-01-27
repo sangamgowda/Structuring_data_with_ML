@@ -1,0 +1,39 @@
+"Drive
+Model",Description,Cat. No.,"M.R.P.
+(`)
+Per Unit"
+Nx2000,Nx2000 Remote Keypad with 3m cable,LTOP-DOP-51,*
+Nx2000+,Nx2000+ Remote Keypad with 3m cable,LTOP-DOP-52,*
+,CANOpen Comm Card for Nx2000+,LTCI-CAN-NP,*
+,Eth.IP/Mod.TCP/RAPIEnet Opt for Nx2000+,LTCI-ETH-NP,*
+,Profibus-DP Comm Card for Nx2000+,LTCI-PDP-NP,*
+Sx2000,Sx2000 Remote Keypad with 3m cable,LTOP-DOP-150,*
+,LCD Digital Operator,LTOP-DOP-200,*
+,I/O Expansion Card for Sx2000,LTIO-EXP-S,*
+,CANOpen Communication card,LTCI-CAN-S,*
+,Profibus-DP Communication card,LTCI-PDP-S.,*
+,Profinet option card for Sx2000,LTCI-PFN-S,*
+,Ethernet IP - Modbus TCP Communication card,LTCI-ETH-S.,*
+Fx2000,LCD Digital Operator,LTOP-DOP-200,*
+,I/O Expansion Card 1 for Fx2000,LTIO-EX1-F,*
+,I/O Expansion Card 2 for Fx2000,LTIO-EX2-F,*
+,Synchronization Option Card,LTCN-SYN-F,*
+,Position control option card for Fx2000,LTCN-PCN-F,*
+,Incremental card for Open collector and Line Driver Encoder,LTEN-INC-F,*
+,Application Development PLC Option card,LTAD-PLC-F,*
+,Profibus-DP Communication Interface card,LTCI-PDP-F,*
+,Profinet option card for Fx2000,LTCI-PFN-F,*
+,CANOpen Communication Interface card,LTCI-CAN-F,*
+,DeviceNet Communication Interface card,LTCI-DEN-F,*
+,Ethernet IP/Modbus TCP Communication Interface card,LTCI-ETH-F,*
+Hx2000,I/O Expansion Card for Hx2000,LTIO-EXP-H,*
+,I/O Expansion Card 2 for Hx2000,LTIO-EXP2-H,*
+"DBU for
+Sx2000,
+Fx2000",Dynamic Braking Unit for 11 - 15kW,LTDBU-0150-4,*
+,Dynamic Braking Unit for 18.5 - 22kW,LTDBU-0220-4,*
+,Dynamic Braking Unit for 30 - 37kW,LTDBU-0370-4,*
+,Dynamic Braking Unit for 45 - 55kW,LTDBU-0550-4,*
+,Dynamic Braking Unit for 75kW,LTDBU-0750-4,*
+,Dynamic Braking Unit for 75kW 100% ED,LTDBU-075H-4,*
+,Dynamic Braking Unit for 220 - 375kW,LTDBU-2200-4,*

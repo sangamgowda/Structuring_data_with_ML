@@ -1,0 +1,6 @@
+Description,Output contacts,Reset Contacts,Reset Flag,Coil Voltage,Cat. No.,M.R.P. (`) Per Unit
+"Single element
+Lockout relay",3NO + 2NC,Hand,Hand,24VDC,L1H32DC024X,6000
+,,,,110VDC,L1H32DC110X,
+,,,,220VDC,L1H32DC220X,
+,,,,230VAC,L1H32AC230X,

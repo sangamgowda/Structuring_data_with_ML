@@ -1,0 +1,10 @@
+"M.R.P. changes for
+product customization w.r.t. SR18G M.R.P.",,"M.R.P.
+(`)
+Per Unit"
+Bus-Coupler (w/o protection),Reduce,14200
+Microprocessor based SR18G+D (LSING + Current Metering),Add,13000
+Microprocessor based SR18Gi+D (LSING + Current metering + ZSI),Add,14500
+Microprocessor based SR71 (LSING + Current metering + Advance protection + PS Module),Add,*
+Communication Module (MODBUS) for SR71 release (SR71 - COM) $,SL94698 OOOO,
+Power Metering Module for SR71 release (SR71 - PM) $,SL94699 OOOO,

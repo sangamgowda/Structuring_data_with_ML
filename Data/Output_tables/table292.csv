@@ -1,0 +1,17 @@
+Description,No. of Pins,"No. of
+Modules",Cat. Nos.,"M.R.P.
+(`)
+Per Unit"
+Metal Plug & Sockets,,,,
+"10 A, 2 Pin + SC^",P + N,1,DBMPS110SD,1835
+"20 A, 2 Pin + SC^",P + N,1,DBMPS120SD,1970
+"20 A, 2 Pin + SC^",P + N,2,DBMPS220SD,2140
+"20 A, 3 Pin + SC^",3P,3,DBMPS320SD,3625
+"32 A, 3 Pin + SC^",3P,3,DBMPS332SD,4285
+"32 A, 3 Pin + SC^",3P,4,DBMPS432SD,4560
+"63 A, 5 Pin + SC^",3P+N+E,4,DBMPS463SD,15450
+Plastic Plug & Sockets,,,,
+"16 A, 3 Pin",P+N+E,2,DBPPS316SD,3000
+"32 A, 3 Pin",P+N+E,4,DBPPS332SD,3240
+"32 A, 5 Pin",3P+N+E,8,DBPPS532SD,5410
+"63 A, 5 Pin",3P+N+E,8,DBPPS563SD,13545

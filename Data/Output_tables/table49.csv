@@ -1,0 +1,7 @@
+"Trip
+class",Trip time delay,,
+,I = 120% of Im,I = 150% of Im,I = 720% of Im
+10A,< 2 hours,< 2 min,2 - 10 secs
+10,< 2 hours,< 4 min,4 - 10 secs
+20,< 2 hours,< 6 min,6 - 20 secs
+30,< 2 hours,< 12 min,9 - 30 secs
